@@ -19,8 +19,15 @@ This repository contains the tasks and projects completed during my Data Science
 - Customer Churn Classification using Random Forest
 - Accuracy: 80%
 
-### Project 2
-- To be added
+### Project 2: Employee Burnout Prediction
+- Dataset Understanding
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Employee Burnout Rate Prediction
+- Compared Multiple Regression Models
+- Best Model: Gradient Boosting Regressor
+- R² Score: 0.85
 
 ### Project 3
 - To be added
